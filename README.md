@@ -3,11 +3,11 @@
 ### Bella Jin
 </p>
 
-<p align="center">
-- Hi, I'm JiEun Kim, computer science student in South Korea.🇰🇷
-- I'm still learning something new.☺️
-- Always trying to enjoying whatever I do🔅
-</ p>
+<ul align = "center">
+  <li> Hi, I'm JiEun Kim, computer science student in South Korea.🇰🇷 </li>
+  <li> I'm still learning something new.☺️ </li>
+  <li> Always trying to enjoying whatever I do🔅 </li>
+</ul>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
