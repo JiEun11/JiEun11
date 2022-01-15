@@ -1,9 +1,9 @@
 <p align="center">
-<h1> WELECOME TO MY GITHUB </h1>
-<h3> Bella Jin </h3>
+<h1 align="center"> WELECOME TO MY GITHUB </h1>
+<h3 align="center"> Bella Jin </h3>
 </p>
 
-<ul align = "center"  style="list-style:none">
+<ul align = "center"  list-style = "none">
   <li> Hi, I'm JiEun Kim, computer science student in South Korea.🇰🇷 </li>
   <li> I'm still learning something new.☺️ </li>
   <li> Always trying to enjoying whatever I do🔅 </li>
